@@ -12,4 +12,12 @@
 
 ---
 
+<div align="left">
+    <h3>lenguajes y herramientas:</h3>
+    <div>
+        <img scr="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="java"
+        width="40" height="40"/>
 
+    </div>
+
+</div>
