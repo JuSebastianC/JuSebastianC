@@ -9,3 +9,7 @@
         new technologies and keeping up with the latest trends in software development.
         ​</h3>
 </div>
+
+---
+
+
