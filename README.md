@@ -13,11 +13,9 @@
 ---
 
 <div align="left">
-    <h3>lenguajes y herramientas:</h3>
+    <h3>languages and tools:</h3>
     <div>
-        <img scr="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="java"
+        <img scr="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="java"
         width="40" height="40"/>
-
     </div>
-
 </div>
